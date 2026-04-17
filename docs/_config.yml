@@ -8,31 +8,18 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
-lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+lang: it-IT
+title: PROGETTO ERMES
+email: ricerca@inrca.it
+description: "DESCRIZIONE"
 baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
+url: "https://bigimichele-beep.github.io"
+repository: "bigimichele-beep/jekyll-theme-basically-basi"
+
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
+  name: Bigi Michele
+  twitter: bigimichele-beep 
   picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
-google_analytics: UA-2011187-6
-disqus:
-  shortname:
-search: true
-search_full_content: true
-search_provider: lunr
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
 
 # Conversion
 markdown: kramdown
@@ -58,7 +45,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins: # previously gems
