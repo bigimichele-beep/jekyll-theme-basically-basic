@@ -450,7 +450,7 @@ Author information is used as meta data for post "by lines" and propagates the
 author:
   name: John Doe
   twitter: johndoetwitter
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/Michele_Bigi.jpg
 ```
 
 Site-wide author information can be overridden in a document's front matter in 
@@ -704,7 +704,7 @@ addition of the following to display an author picture:
 ```yaml
 author:
   name: John Doe
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/Michele_Bigi.jpg
 ```
 
 Recommended `picture` size is approximately `300 x 300` pixels. If `author` 
