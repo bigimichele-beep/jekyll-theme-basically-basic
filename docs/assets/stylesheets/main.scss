@@ -8,3 +8,20 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+/* Logo a sinistra del titolo hero/home */
+.intro .intro__title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.intro .intro__title::before {
+  content: "";
+  width: 42px;
+  height: 42px;
+  display: inline-block;
+  background: url("/jekyll-theme-basically-basic/assets/icons/Hermes-logo.svg") no-repeat center center;
+  background-size: contain;
+  flex: 0 0 42px;
+}
