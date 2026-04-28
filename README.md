@@ -449,7 +449,7 @@ Author information is used as meta data for post "by lines" and propagates the
 ```yaml
 author:
   name: John Doe
-  twitter: johndoetwitter
+  twitter: Inrca
   picture: /assets/images/Michele_Bigi.jpg
 ```
 
@@ -584,7 +584,7 @@ image:  # URL to a hero image associated with the post (e.g., /assets/page-pic.j
 # post specific author data if different from what is set in _config.yml 
 author:
   name: John Doe
-  twitter: johndoetwitter
+  twitter: Inrca
 
 comments: false  # disable comments on this post
 ```
