@@ -1,96 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
-
-# Site Settings
 lang: it-IT
-title: PROGETTO ERMES
+title: PROGETTO HERMES
 email: ricerca@inrca.it
 description: "DESCRIZIONE"
 baseurl: "/jekyll-theme-basically-basic"
 url: "https://bigimichele-beep.github.io"
-repository: "bigimichele-beep/jekyll-theme-basically-basi"
+repository: "bigimichele-beep/jekyll-theme-basically-basic"
 
-author:
-  name: Bigi Michele
-  twitter: bigimichele-beep 
-  picture: /assets/images/johndoe.png
+# Tema locale: cartelle prese dalla root repo
+layouts_dir: ../_layouts
+includes_dir: ../_includes
+sass:
+  sass_dir: ../_sass
+  style: compressed
 
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 incremental: false
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# Plugins
-plugins: # previously gems
+# se vuoi usare i plugin standard
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-remote-theme
 
-# Jekyll Feed
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Collections
 collections:
   recipes:
     output: true
     permalink: /:collection/:path/
 
-# Front Matter Defaults
 defaults:
-  # _posts
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
       read_time: true
-  # _recipes
   - scope:
       path: "_recipes"
       type: recipes
