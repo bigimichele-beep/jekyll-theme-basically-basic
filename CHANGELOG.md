@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Added
 - Add translation keys for CV layout. [#145](https://github.com/mmistakes/jekyll-theme-basically-basic/pull/145)
-- Display 'Posts' header only if the site has posts. [#144](https://github.com/mmistakes/jekyll-theme-basically-basic/pull/144)
+- Display 'News' header only if the site has posts. [#144](https://github.com/mmistakes/jekyll-theme-basically-basic/pull/144)
 
 ## Changed
 - Improve remote theme upgrading documentation.
