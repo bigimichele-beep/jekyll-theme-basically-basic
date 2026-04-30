@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitæ
+title: Sviluppo
 layout: cv
 actions:
   - label: "Download as PDF"
