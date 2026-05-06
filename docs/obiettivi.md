@@ -17,4 +17,4 @@ You can find the source code for this theme at: {% include icon-github.html user
 
 # Guarda la nostra prova
 
-- ## [Priva Hermes](../2026/05/06/Prova-hermes.html)
+- ## [Priva Hermes](../jekyll-theme-basically-basic/2026/05/06/Prova-hermes.html)
