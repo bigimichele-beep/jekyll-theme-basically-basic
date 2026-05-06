@@ -12,9 +12,3 @@ Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as 
 - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 
 You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
-
----
-
-# Guarda la nostra prova
-
-- ## [Priva Hermes](../jekyll-theme-basically-basic/2026/05/06/Prova-hermes.html)
