@@ -17,4 +17,4 @@ You can find the source code for this theme at: {% include icon-github.html user
 
 # Guarda la nostra prova
 
-- ## [Priva Hermes](_posts/2017-12-01-jekyll-remote-theme-support.md)
+- ## [Priva Hermes](../_posts/2017-12-01-jekyll-remote-theme-support.md)
