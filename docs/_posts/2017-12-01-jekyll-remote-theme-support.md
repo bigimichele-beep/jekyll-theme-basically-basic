@@ -24,3 +24,8 @@ tags:
 
   > annotazione ble bla bla
   
+  L'esperienza dei diversi soggetti coinvolti nel campo della tecnoassistenza per l’invecchiamento attivo e in salute rappresenta il punto di partenza per l'identificazione e la valutazione dei bisogni degli utenti finali in base al quale realizzare spazi abitativi autonomi dotati di soluzioni tecnologicamente avanzate, 'inserite nella comunità urbana di Rende ed integrati in un modello socio-sanitario' volto a garantire l’inclusione, la sicurezza, il benessere, la salute e l’assistenza alla popolazione anziana. 
+
+  '''
+    L'esperienza dei diversi soggetti coinvolti nel campo della tecnoassistenza per l’invecchiamento attivo e in salute rappresenta il punto di partenza per l'identificazione e la valutazione dei bisogni degli utenti finali in base al quale realizzare spazi abitativi autonomi dotati di soluzioni tecnologicamente avanzate, inserite nella comunità urbana di Rende ed integrati in un modello socio-sanitario volto a garantire l’inclusione, la sicurezza, il benessere, la salute e l’assistenza alla popolazione anziana.
+  '''
