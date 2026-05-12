@@ -20,7 +20,7 @@ tags:
 - Università di Bologna
   - prova 2
 
-  ![logo di coesione italia](immagini/coesioneitalia21-27.webp)
+  ![logo di coesione italia](./immagini/coesioneitalia21-27.webp)
 
   > annotazione ble bla bla
   
