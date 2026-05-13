@@ -33,7 +33,7 @@ paginate: 10
 paginate_path: /page:num/
 
 collections:
-  recipes:
+  partner:
     output: true
     permalink: /:collection/:path/
 
@@ -45,8 +45,8 @@ defaults:
       layout: post
       read_time: true
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_partner"
+      type: partner
     values:
       layout: post
       read_time: true
