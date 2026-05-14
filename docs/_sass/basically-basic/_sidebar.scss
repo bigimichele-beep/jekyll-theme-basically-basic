@@ -5,7 +5,7 @@
 .sidebar {
   position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
   width: 100%;
   max-width: $sidebar-width;
   height: 100%;
@@ -25,9 +25,9 @@
   }
 
   li {
-    -webkit-transform: translateX(-1rem);
-    -ms-transform: translateX(-1rem);
-    transform: translateX(-1rem);
+    -webkit-transform: translateX(1rem);
+    -ms-transform: translateX(1rem);
+    transform: translateX(1rem);
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     opacity: 0;
@@ -48,7 +48,7 @@
         display: block;
         position: absolute;
         top: 50%;
-        left: -3rem;
+        right: -3rem;
         width: 0;
         height: 1px;
         -webkit-transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
@@ -73,8 +73,8 @@
     padding: 1.5em;
     background-color: $sidebar-background-color;
     overflow-x: hidden;
-    -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
-    box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+    -webkit-box-shadow: inset 1em 0 5em 0 rgba(0, 0, 0, 0.125);
+    box-shadow: inset 1em 0 5em 0 rgba(0, 0, 0, 0.125);
 
     @include breakpoint($medium) {
       padding: 3rem;
