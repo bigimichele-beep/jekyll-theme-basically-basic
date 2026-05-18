@@ -25,7 +25,6 @@ function animateMenuItems() {
   }
 };
 
-var myWrapper = document.querySelector('.wrapper');
 var myMenu = document.querySelector('.sidebar');
 var myToggle = document.querySelector('.toggle');
 var myInitialContent = document.querySelector('.initial-content');
@@ -38,11 +37,9 @@ function toggleClassMenu() {
   if (!myMenu.classList.contains('is--visible')) {
     myMenu.classList.add('is--visible');
     myToggle.classList.add('open');
-    myWrapper.classList.add('is--pushed');
   } else {
     myMenu.classList.remove('is--visible');
     myToggle.classList.remove('open');
-    myWrapper.classList.remove('is--pushed');
   }
 }
 
