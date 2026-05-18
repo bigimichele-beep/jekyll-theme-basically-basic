@@ -144,7 +144,7 @@
   margin: 1.8125rem 0;
   padding-right: 1rem;
   background-color: $background-color;
-  z-index: 10000;
+  z-index: $sidebar-toggle-z-index;
 
   @include breakpoint($medium) {
     right: 2rem;

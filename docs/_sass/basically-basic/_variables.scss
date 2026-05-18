@@ -85,7 +85,8 @@ $sidebar-width: $small !default;
 $sidebar-background-color: #fff !default;
 
 /* Sidebar stacking order (above page wrapper and toggle controls) */
-$sidebar-z-index: 11000 !default;
+$sidebar-toggle-z-index: 1000 !default;
+$sidebar-z-index: 1100 !default;
 
 /* Intro image color overlay */
 $intro-image-color-overlay: false !default;
