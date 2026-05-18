@@ -9,7 +9,7 @@
   width: 100%;
   max-width: $sidebar-width;
   height: 100%;
-  z-index: 50;
+  z-index: $sidebar-z-index;
   visibility: hidden;
   -webkit-transform: translateX(100%);
   -ms-transform: translateX(100%);
@@ -144,7 +144,7 @@
   margin: 1.8125rem 0;
   padding-right: 1rem;
   background-color: $background-color;
-  z-index: 10000;
+  z-index: $sidebar-toggle-z-index;
 
   @include breakpoint($medium) {
     right: 2rem;
