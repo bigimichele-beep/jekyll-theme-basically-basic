@@ -11,8 +11,11 @@
   height: 100%;
   z-index: 50;
   visibility: hidden;
-  -webkit-transition: visibility 0s 0.3s;
-  transition: visibility 0s 0.3s;
+  -webkit-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  transform: translateX(100%);
+  -webkit-transition: visibility 0s 0.3s, -webkit-transform 0.3s ease;
+  transition: visibility 0s 0.3s, transform 0.3s ease;
 
   @include breakpoint($large) {
     max-width: (1.5 * $sidebar-width);
@@ -20,8 +23,11 @@
 
   &.is--visible {
     visibility: visible;
-    -webkit-transition: visibility 0s 0s;
-    transition: visibility 0s 0s;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transition: visibility 0s 0s, -webkit-transform 0.3s ease;
+    transition: visibility 0s 0s, transform 0.3s ease;
   }
 
   li {
