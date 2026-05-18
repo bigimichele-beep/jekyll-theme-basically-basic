@@ -131,6 +131,22 @@
   }
 }
 
+.sidebar-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: ($sidebar-z-index - 1);
+  visibility: hidden;
+  pointer-events: none;
+
+  &.is--visible {
+    visibility: visible;
+    pointer-events: auto;
+  }
+}
+
 .sidebar-toggle-wrapper {
   position: absolute;
   display: -webkit-box;
