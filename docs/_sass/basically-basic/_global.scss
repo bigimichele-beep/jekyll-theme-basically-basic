@@ -37,15 +37,15 @@
 }
 
 .site-logo {
-  width: $site-image-width;
-  height: $site-image-height;
+  width: auto;
+  height: 40%;
   margin-right: 0.5rem;
   border-radius: 50%;
 }
 
 .site-logo--inrca {
   border-radius: 0;
-  height: 98%;   
+  height: 50%;   
   width: auto;
   margin-right: 10px; 
   vertical-align: middle;
