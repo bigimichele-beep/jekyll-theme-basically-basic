@@ -30,7 +30,8 @@
     -ms-flex-align: center;
     -webkit-box-align: center;
     align-items: center;
-    min-height: $site-image-height;
+    /*min-height: $site-image-height;*/
+    min-height: 0;
     color: $text-color;
     text-decoration: none;
   }
@@ -45,8 +46,8 @@
 
 .site-logo--inrca {
   border-radius: 0;
-  height: $site-image-width * 1.2;   
-  width: $site-image-width * 1.2;
+  height: 80%;   
+  width: auto;
   margin-right: 10px; 
   vertical-align: middle;
 }
