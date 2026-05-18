@@ -39,14 +39,12 @@ function toggleClassMenu() {
     myMenu.classList.add('is--visible');
     if (myOverlay) {
       myOverlay.classList.add('is--visible');
-      myOverlay.setAttribute('aria-hidden', 'false');
     }
     myToggle.classList.add('open');
   } else {
     myMenu.classList.remove('is--visible');
     if (myOverlay) {
       myOverlay.classList.remove('is--visible');
-      myOverlay.setAttribute('aria-hidden', 'true');
     }
     myToggle.classList.remove('open');
   }
