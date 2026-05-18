@@ -45,10 +45,14 @@
 
 .site-logo--inrca {
   border-radius: 0;
-  height: 150%;   
-  width: 150%;
+  height: 80%;   
+  width: auto;
   margin-right: 10px; 
   vertical-align: middle;
+}
+
+.site-logo-link {
+  min-height: 0;  
 }
 
 .more-link {
