@@ -4,6 +4,12 @@
 
 .site-title {
   @include fluid-type($min-vw, $max-vw, 20px, 24px);
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
   margin: 0;
   padding: 1.8125rem 1rem;
   padding-right: calc(
@@ -39,6 +45,10 @@
   height: $site-image-height;
   margin-right: 0.5rem;
   border-radius: 50%;
+}
+
+.site-logo--inrca {
+  border-radius: 0;
 }
 
 .more-link {

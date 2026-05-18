@@ -1,10 +1,14 @@
 {% assign site_logo = site.logo | relative_url %}
+{% assign inrca_logo = '/assets/icons/logo_inrca.png' | relative_url %}
 
 <header id="masthead">
   <div class="inner">
     <div class="title-area">
       {% if page.url == '/' %}
         <h1 class="site-title">
+          <a href="https://r0mb0.github.io/Ehh_volevi_landing/" class="site-logo-link">
+            <img src="{{ inrca_logo }}" alt="Logo INRCA" class="site-logo site-logo--inrca">
+          </a>
           <a href="{{ '/' | relative_url }}">
             {% if site.logo %}<img src="{{ site_logo }}" alt="" class="site-logo">{% endif %}
             <span>{{ site.title | escape }}</span>
@@ -12,6 +16,9 @@
         </h1>
       {% else %}
         <p class="site-title">
+          <a href="https://r0mb0.github.io/Ehh_volevi_landing/" class="site-logo-link">
+            <img src="{{ inrca_logo }}" alt="Logo INRCA" class="site-logo site-logo--inrca">
+          </a>
           <a href="{{ '/' | relative_url }}">
             {% if site.logo %}<img src="{{ site_logo }}" alt="" class="site-logo">{% endif %}
             <span>{{ site.title | escape }}</span>
