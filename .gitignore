@@ -15,4 +15,3 @@ node_modules
 npm-debug.log*
 
 vendor/bundle
-docs/vendor/bundle
