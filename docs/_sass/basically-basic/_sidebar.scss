@@ -9,7 +9,7 @@
   width: 100%;
   max-width: $sidebar-width;
   height: 100%;
-  z-index: 11000;
+  z-index: $sidebar-z-index;
   visibility: hidden;
   -webkit-transform: translateX(100%);
   -ms-transform: translateX(100%);
