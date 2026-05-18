@@ -55,20 +55,16 @@ function OnTransitionEnd() {
   myMenu.classList.remove('is--animatable');
 }
 
+function handleMenuToggle() {
+  toggleClassMenu();
+  animateMenuItems();
+}
+
 myMenu.addEventListener('transitionend', OnTransitionEnd, false);
-myToggle.addEventListener('click', function () {
-  toggleClassMenu();
-  animateMenuItems();
-}, false);
-myMenu.addEventListener('click', function () {
-  toggleClassMenu();
-  animateMenuItems();
-}, false);
+myToggle.addEventListener('click', handleMenuToggle, false);
+myMenu.addEventListener('click', handleMenuToggle, false);
 if (myOverlay) {
-  myOverlay.addEventListener('click', function () {
-    toggleClassMenu();
-    animateMenuItems();
-  }, false);
+  myOverlay.addEventListener('click', handleMenuToggle, false);
 }
 if (mySearchToggle) {
   mySearchToggle.addEventListener('click', function () {
