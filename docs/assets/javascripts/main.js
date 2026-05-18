@@ -26,6 +26,7 @@ function animateMenuItems() {
 };
 
 var myMenu = document.querySelector('.sidebar');
+var myOverlay = document.querySelector('.sidebar-overlay');
 var myToggle = document.querySelector('.toggle');
 var myInitialContent = document.querySelector('.initial-content');
 var mySearchContent = document.querySelector('.search-content');
@@ -36,9 +37,15 @@ function toggleClassMenu() {
   myMenu.classList.add('is--animatable');
   if (!myMenu.classList.contains('is--visible')) {
     myMenu.classList.add('is--visible');
+    if (myOverlay) {
+      myOverlay.classList.add('is--visible');
+    }
     myToggle.classList.add('open');
   } else {
     myMenu.classList.remove('is--visible');
+    if (myOverlay) {
+      myOverlay.classList.remove('is--visible');
+    }
     myToggle.classList.remove('open');
   }
 }
@@ -48,15 +55,16 @@ function OnTransitionEnd() {
   myMenu.classList.remove('is--animatable');
 }
 
+function handleMenuToggle() {
+  toggleClassMenu();
+  animateMenuItems();
+}
+
 myMenu.addEventListener('transitionend', OnTransitionEnd, false);
-myToggle.addEventListener('click', function () {
-  toggleClassMenu();
-  animateMenuItems();
-}, false);
-myMenu.addEventListener('click', function () {
-  toggleClassMenu();
-  animateMenuItems();
-}, false);
+myToggle.addEventListener('click', handleMenuToggle, false);
+if (myOverlay) {
+  myOverlay.addEventListener('click', handleMenuToggle, false);
+}
 if (mySearchToggle) {
   mySearchToggle.addEventListener('click', function () {
     toggleClassSearch();
