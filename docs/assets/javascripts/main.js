@@ -62,7 +62,6 @@ function handleMenuToggle() {
 
 myMenu.addEventListener('transitionend', OnTransitionEnd, false);
 myToggle.addEventListener('click', handleMenuToggle, false);
-myMenu.addEventListener('click', handleMenuToggle, false);
 if (myOverlay) {
   myOverlay.addEventListener('click', handleMenuToggle, false);
 }
