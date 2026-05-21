@@ -8,6 +8,6 @@ tags:
 
 ## Obiettivi
 
-Pippo pollo
+Pippo pollo 
 
 ![anziana]({{ site.baseurl }}/assets/images/anziana.jpeg)
