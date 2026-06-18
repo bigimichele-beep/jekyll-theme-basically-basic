@@ -2,7 +2,7 @@
   {% if page.image %}
     {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
     <div class="intro-image">
-      <img src="{{ intro_image }}" alt="{{ page.title }}">
+      <img src="{{ intro_image }}" alt="{{ page.title }}"{% if page.image.width or page.image.height %} style="{% if page.image.width %}width: {{ page.image.width }}px;{% endif %}{% if page.image.height %}height: {{ page.image.height }}px;{% endif %}"{% endif %}>
     </div>
   {% endif %}
 
