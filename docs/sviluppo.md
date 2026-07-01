@@ -1,10 +1,7 @@
 ---
 title: Sviluppo
 layout: cv
-actions:
-  - label: "Download as PDF"
-    icon: pdf
-    url: "#pdf-asset"
+
 ---
 Fase 1 – Sviluppo del Modello
 •	Analisi dei bisogni di anziani, caregiver e stakeholder.
