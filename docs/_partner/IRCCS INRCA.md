@@ -1,11 +1,11 @@
 ---
 title: "IRCCS INRCA"
 image:
-  path: /assets/images/logo_irccs_inrca.png
+  path: /assets/images/logo_inrca_small.png
   thumbnail: /assets/images/oatmeal-cookies-400x200.jpg
   thumbnail_width: 100
   thumbnail_height: 100
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  caption: "Logo IRCCS INRCA"
 ---
 
 IRCCS INRCA
