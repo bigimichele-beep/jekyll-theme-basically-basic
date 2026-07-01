@@ -2,6 +2,8 @@
 title: "Consiglio Nazionale delle Ricerche"
 image: 
   path: /assets/images/CNR_logo_verticale.png
+  path_width: 100
+  path_height: 100
   thumbnail: /assets/images/peanut-butter-cookies-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
