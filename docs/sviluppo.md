@@ -1,6 +1,6 @@
 ---
 title: Sviluppo
-layout: cv
+layout: page
 
 ---
 Fase 1 – Sviluppo del Modello
