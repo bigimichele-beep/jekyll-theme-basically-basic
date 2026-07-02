@@ -12,7 +12,7 @@ La terza fase è dedicata all’attivazione, alla valutazione e alla scalabilit�
 
 Infine, la fase di divulgazione e trasferimento delle conoscenze accompagna la promozione del modello ERMES presso istituzioni, decisori politici e cittadini, con l’intento di sensibilizzare sull’importanza di soluzioni abitative ICT-based per l’invecchiamento attivo. La condivisione di risultati, metodologie e buone pratiche rappresenta un passaggio fondamentale per sostenere la replicabilità del modello in altri contesti urbani e per favorire la costruzione di ecosistemi più inclusivi, innovativi e attenti ai bisogni della popolazione anziana.
 
-Fase 1 – Sviluppo del Modello
+***Fase 1 – Sviluppo del Modello***
   -	Analisi dei bisogni di anziani, caregiver e stakeholder.
   -	Mappatura servizi esistenti e tecnologie disponibili.
   -	Definizione del modello socio-assistenziale e urbano.
@@ -20,20 +20,20 @@ Fase 1 – Sviluppo del Modello
   -	Integrazione tra spazi, tecnologie ICT e contesto urbano.
   -	Uso di AI e interfacce digitali per personalizzare i servizi.
 
- Fase 2 – Progettazione e Realizzazione
+ ***Fase 2 – Progettazione e Realizzazione***
   -	Progetto esecutivo e interventi nel sito pilota.
   -	Installazione infrastruttura tecnologica.
   -	Riqualificazione degli spazi abitativi e comuni.
   -	Costituzione equipe multidisciplinare.
   -	Attivazione servizi innovativi e scenari sperimentali.
 
- Fase 3 – Attivazione, Valutazione e Scalabilità
+ ***Fase 3 – Attivazione, Valutazione e Scalabilità***
   -	Insediamento dei residenti nel sito pilota.
   -	Valutazione efficacia, usabilità e sostenibilità del modello.
   -	Standardizzazione per la replicabilità.
   -	Divulgazione dei risultati per sensibilizzare e promuovere il modello in altri contesti.
 
-Fase 4 – Divulgazione e Trasferimento delle Conoscenze
+***Fase 4 – Divulgazione e Trasferimento delle Conoscenze***
   -	Promozione del modello ERMES presso istituzioni, decisori politici e cittadini.
   -	Sensibilizzazione sull’importanza di soluzioni abitative ICT-based per l’invecchiamento attivo.
   -	Condivisione di risultati, metodologie e buone pratiche.
