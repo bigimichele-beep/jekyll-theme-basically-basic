@@ -1,8 +1,8 @@
 ---
 title: "IRCCS INRCA"
 image:
-  path: /assets/images/logo_inrca_small.png
-  thumbnail: /assets/images/logo_inrca_small.jpg
+  path: /assets/images/logo_irccs_inrca.png
+  thumbnail: /assets/images/logo_irccs_inrca.png
   thumbnail_width: 100
   thumbnail_height: 100
   caption: "Logo IRCCS INRCA"
