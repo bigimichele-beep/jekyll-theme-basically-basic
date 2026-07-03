@@ -1,8 +1,8 @@
 ---
 title: "Consiglio Nazionale delle Ricerche"
 image: 
-  path: /assets/images/CNR_logo.png
-  thumbnail: /assets/images/CNR_logo.png
+  path: /assets/images/logo_CNR.png
+  thumbnail: /assets/images/logo_CNR.png
   thumbnail_width: 100
   thumbnail_height: 100
   caption: "Logo CNR"
