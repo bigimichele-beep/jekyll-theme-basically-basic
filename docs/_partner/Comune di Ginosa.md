@@ -2,6 +2,8 @@
 title: "Comune di Ginosa"
 image: 
   path: /assets/images/Logo_Comune_Ginosa.png
+  width: 600
+  height: 400
   thumbnail: /assets/images/Logo_Comune_Ginosa.png
   thumbnail_width: 100
   thumbnail_height: 100

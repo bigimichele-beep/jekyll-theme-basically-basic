@@ -2,6 +2,8 @@
 title: "IRCCS INRCA"
 image:
   path: /assets/images/IRCCS_INRCA.png
+  width: 600
+  height: 400
   thumbnail: /assets/images/IRCCS_INRCA.png
   thumbnail_width: 100
   thumbnail_height: 100

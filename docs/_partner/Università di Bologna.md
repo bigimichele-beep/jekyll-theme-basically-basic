@@ -2,6 +2,8 @@
 title: "Università di Bologna"
 image:
   path: /assets/images/Logo_UNIBO_a.jpg
+  width: 600
+  height: 400
   thumbnail: /assets/images/Logo_UNIBO_1.jpg
   thumbnail_width: 100
   thumbnail_height: 100

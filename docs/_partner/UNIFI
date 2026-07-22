@@ -1,7 +1,9 @@
 ---
 title: "UNIFI"
-image: 
+image:
   path: /assets/images/UNIFI.png
+  width: 600
+  height: 400
   thumbnail: /assets/images/UNIFI.png
   thumbnail_width: 100
   thumbnail_height: 100

@@ -2,6 +2,8 @@
 title: "Santa Lucia"
 image:
   path: /assets/images/Logo_Santa_Lucia.png
+  width: 600
+  height: 400
   thumbnail: /assets/images/Logo_Santa_Lucia.png
   thumbnail_width: 100
   thumbnail_height: 100

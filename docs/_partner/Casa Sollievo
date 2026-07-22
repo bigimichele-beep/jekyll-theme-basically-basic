@@ -2,6 +2,8 @@
 title: "Casa Sollievo della Sofferenza"
 image:
   path: /assets/images/Casa_Sollievo2.png
+  width: 600
+  height: 400
   thumbnail: /assets/images/Casa_Sollievo2.png
   thumbnail_width: 100
   thumbnail_height: 100
