@@ -15,4 +15,4 @@ UNIBO è l’Università di Bologna, detta anche Alma Mater Studiorum: è il pi�
 
 È un punto di riferimento nazionale e internazionale per formazione, innovazione e mobilità studentesca.
 
-[UNIBO](https://www.unibo.it/it)
+[Università di Bologna](https://www.unibo.it/it)
