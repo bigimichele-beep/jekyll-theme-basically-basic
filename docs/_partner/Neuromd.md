@@ -4,7 +4,7 @@ image:
   path: /assets/images/Logo_Neuromed.jpg
   width: 600
   height: 400
-  thumbnail: /assets/images/Logo_Neuromed.jpg
+  thumbnail: /assets/images/Neuromed100.jpg
   thumbnail_width: 100
   thumbnail_height: 100
   caption: "Logo Neuromed"
