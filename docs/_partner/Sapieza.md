@@ -1,10 +1,10 @@
 ---
 title: "Università degli Studi di Roma La Sapienza"
 image:
-  path: /assets/images/Logo_Sapienza.png
+  path: /assets/images/sapienza600.jpg
   width: 600
   height: 400
-  thumbnail: /assets/images/Logo_Sapienza.png
+  thumbnail: /assets/images/sapienza100.jpg
   thumbnail_width: 100
   thumbnail_height: 100
   caption: "Logo Neuromed"
