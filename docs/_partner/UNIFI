@@ -1,6 +1,11 @@
 ---
+<<<<<<< Updated upstream
 title: "UNIFI"
 image:
+=======
+title: "Università degli Studi di Firenze"
+image: 
+>>>>>>> Stashed changes
   path: /assets/images/UNIFI.png
   width: 600
   height: 400

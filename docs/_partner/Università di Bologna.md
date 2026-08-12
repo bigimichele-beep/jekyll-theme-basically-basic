@@ -1,5 +1,5 @@
 ---
-title: "Università di Bologna"
+title: "Alma Mater Studiorum - Università di Bologna"
 image:
   path: /assets/images/Logo_UNIBO_a.jpg
   width: 600
