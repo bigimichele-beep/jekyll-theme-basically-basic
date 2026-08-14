@@ -4,6 +4,8 @@ layout: page
 
 ---
 
+image: /assets/images/sviluppo.jpg
+
 Il progetto ERMES si articola in quattro fasi successive e strettamente integrate, pensate per accompagnare lo sviluppo di un modello abitativo innovativo, inclusivo e orientato alla qualità della vita delle persone anziane. Il percorso prende avvio dall’analisi dei bisogni di anziani, caregiver e stakeholder, dalla mappatura dei servizi esistenti e delle tecnologie disponibili, fino alla definizione di un modello socio-assistenziale e urbano capace di integrare spazi, soluzioni ICT e contesto cittadino. In questa fase, un ruolo centrale è affidato anche all’impiego di sistemi di intelligenza artificiale e interfacce digitali per personalizzare i servizi e rispondere in modo più efficace ai bisogni emergenti.
 
 Successivamente, il progetto entra nella fase di progettazione e realizzazione, durante la quale vengono sviluppati il progetto esecutivo e gli interventi nel sito pilota, installata l’infrastruttura tecnologica e riqualificati gli spazi abitativi e comuni. Parallelamente, viene costituita l’equipe multidisciplinare e si avvia l’attivazione di servizi innovativi e scenari sperimentali, con l’obiettivo di tradurre il modello teorico in una soluzione concreta e funzionale.
