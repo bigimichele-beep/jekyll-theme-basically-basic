@@ -1,5 +1,5 @@
 ---
-title: Pubblicazioni
+title: Formazione
 layout: tags
 permalink: /tags/
 ---
