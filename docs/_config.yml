@@ -36,6 +36,9 @@ collections:
   partner:
     output: true
     permalink: /:collection/:path/
+  formazione:
+    output: true
+    permalink: /formazione/:path/
 
 defaults:
   - scope:
@@ -47,6 +50,12 @@ defaults:
   - scope:
       path: "_partner"
       type: partner
+    values:
+      layout: post
+      read_time: true
+  - scope:
+      path: "_formazione"
+      type: formazione
     values:
       layout: post
       read_time: true
