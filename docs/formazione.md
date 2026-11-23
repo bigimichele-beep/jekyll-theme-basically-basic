@@ -1,5 +1,8 @@
 ---
-title: Pubblicazioni
-layout: tags
-permalink: /tags/
+title: Formazione
+layout: collection
+collection: formazione
+sort_by: date
+sort_order: reverse
+permalink: /formazione/
 ---
