@@ -1,19 +1,15 @@
 ---
-title: "Esempio di percorso formativo"
-excerpt: "Documento di esempio per i contenuti dedicati alla formazione."
+title: "Introduzione"
+excerpt: "Cittadini Attivi, Connessi e in Salute - come usare il digitale per la propria salute, principi di active aging."
 date: 2026-09-10
 ---
 
-## Obiettivo
+## Pillola 1
 
-Questo documento mostra la struttura da usare per aggiungere un contenuto alla sezione **Formazione**.
+Presentazione corso.
 
-## Contenuti del percorso
+## Video
 
-Descrivi qui gli argomenti, le attività e le modalità di partecipazione previste per il percorso formativo.
+[Chopin](https://www.youtube.com/watch?v=fFPLd2m51Hk&list=RDfFPLd2m51Hk&start_radio=1)
 
-## Informazioni utili
 
-- **Destinatari:** residenti, caregiver e operatori
-- **Durata:** da definire
-- **Modalità:** in presenza o online
